@@ -41,5 +41,6 @@ ToDo Python с PostgreSQL
 - Telegram: [@spystars777](https://t.me/spystars777)  
 - Email: serejekee@inbox.ru  
 - Website: [shop-bot.tech](https://www.shop-bot.tech/)
+- Freelance : [freelance.ru](https://freelance.ru/Serejekee)
 
 ---
